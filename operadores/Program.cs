@@ -29,4 +29,12 @@ bool f = false;
 bool g = false;
 bool resultado = !e || (f&&g);
 Console.WriteLine(resultado);
+/*
+bool r = true;
+bool s = false;
+bool t = false;
+bool resultado1 = ...
+Console.WriteLine(resultado1);
+*/
+
 
